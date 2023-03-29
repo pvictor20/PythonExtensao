@@ -5,4 +5,4 @@ from math import pi
 print("Informe o raio")
 raio = int(input())
 comprimento = 2 * pi * raio
-print("A circuferência é de: {}" .format(comprimento))
+print("A circuferência é de: {:.2f}" .format(comprimento))
