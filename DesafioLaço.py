@@ -11,6 +11,6 @@ while True:
         print("Número digitado:", numero) 
         break 
     else:
-        print("Você não digitou um número inteiro. Tente novamente.")
+        print("Número inválido.")
 
 
